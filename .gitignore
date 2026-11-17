@@ -1,0 +1,6 @@
+# Ignore everything except for some config files.
+*
+!.gitattributes
+!.gitignore
+!.vscode
+!.vscode/settings.json

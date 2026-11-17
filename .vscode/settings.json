@@ -1,0 +1,4 @@
+{
+    // Do not ignore this folder when it is opened as a workspace.
+    "git.ignoredRepositories": []
+}
